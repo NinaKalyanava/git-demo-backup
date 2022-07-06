@@ -3,23 +3,9 @@
 789
 101
 
-666
-777
-
-xxxxxxxxxxxxxxxxxxxxxx
-ffffffffffffffffffffff
-sssssssssssssssss
-hhhhhhhhhhhhhhh
-kkkkkkkkkkkkkkkkkkkkkkkk
-
-dddddddddddddddddd
-gggggggggggggggggggg
-yyyyyyyyyyyyyyyyyyyyy
-
-dddddddddddddddddd
-ddddddddddddddddd
-ddddddddddddddddddd
-
+00000000000000000000000000000000
+0000000000000000000000000000000
+000000000000000000000000000000
 
 
 
