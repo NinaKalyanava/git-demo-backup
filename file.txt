@@ -3,25 +3,7 @@
 789
 101
 
-666
-777
-
-xxxxxxxxxxxxxxxxxxxxxx
-ffffffffffffffffffffff
-sssssssssssssssss
-hhhhhhhhhhhhhhh
-kkkkkkkkkkkkkkkkkkkkkkkk
-
-dddddddddddddddddd
-gggggggggggggggggggg
-yyyyyyyyyyyyyyyyyyyyy
-
-dddddddddddddddddd
-ddddddddddddddddd
-ddddddddddddddddddd
-
-
-
-
-
+gggggggggggggggggg
+gggggggggggggg
+gggggggggggggggggg
 
