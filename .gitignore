@@ -1,0 +1,9 @@
+*.db
+*.log
+/target
+/bin
+file.txt
+00000
+file.log
+lofgfl.log
+stashme.txt
